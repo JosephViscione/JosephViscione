@@ -1,6 +1,9 @@
 # 💫 About Me:
 
-[![Watch My Intro](https://img.shields.io/badge/Watch_My_Intro-8E44AD?style=for-the-badge)](PASTE-VIDEO-URL-HERE)
+[<img src="https://img.youtube.com/vi/WR-0YOVzfXc/maxresdefault.jpg" width="480" />](https://youtu.be/WR-0YOVzfXc)
+
+▶️ **Watch my introduction** · A quick look at who I am and the kind of problems I like working on
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joeviscione)
 <!-- Resume badge: upload the PDF to this repo, put the exact filename below, then delete these comment markers.
 [![Download Resume](https://img.shields.io/badge/Resume-Download_Now-brightgreen?style=for-the-badge)](https://github.com/JosephViscione/JosephViscione/raw/main/FILENAME.pdf)
