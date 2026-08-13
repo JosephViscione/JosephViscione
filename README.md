@@ -4,10 +4,8 @@
 
 ▶️ **Watch my introduction** · A quick look at who I am and the kind of problems I like working on
 
+[![Download Resume](https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge)](https://github.com/JosephViscione/JosephViscione/raw/main/Viscione_Joseph_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joeviscione)
-<!-- Resume badge: upload the PDF to this repo, put the exact filename below, then delete these comment markers.
-[![Download Resume](https://img.shields.io/badge/Resume-Download_Now-brightgreen?style=for-the-badge)](https://github.com/JosephViscione/JosephViscione/raw/main/FILENAME.pdf)
--->
 
 🔭 **I'm currently working on**  
 Completing my Master of Science in Business Analytics at Wake Forest University (Class of 2027). Alongside coursework I log play-level NFL and NCAA game data and build statistical models for the PFF Enterprise Database, and I run an independent analytics practice helping small businesses find where revenue is coming from and where cost is leaking out.
@@ -45,6 +43,8 @@ I walked on to an NCAA Division I football team in college. Most of what I know 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ## ⚙️ Platforms, Tools & AI
 
@@ -53,6 +53,7 @@ I walked on to an NCAA Division I football team in college. Most of what I know 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-4267B2?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -75,11 +76,11 @@ I walked on to an NCAA Division I football team in college. Most of what I know 
 
 ## 🚀 Featured Projects
 
-| 💰 SaaS Sales Compensation Model | 📦 Supply Chain Performance Analysis | 🏭 Warehouse DMAIC |
+| 💰 SaaS Sales Compensation Model | 📦 Supply Chain Performance Analysis | 🛒 Online Retail Revenue & Customer Trends |
 |:---|:---|:---|
-| Found that Q1 accelerators cost more but returned proportionally more revenue, that mid-year rep churn left $51K in uncovered territory the payroll savings hid, and that the top 20% of earners take enough of variable comp to question quota distribution before the next plan year. | Found that 7 products drive 80% of revenue while 95 contribute 5%, and that Second Class shipping runs a 76.6% late rate on far fewer orders than Standard. Built on a pipeline moving 180K raw rows through Python cleaning into a normalized MySQL database. | Full DMAIC cycle applied to a warehouse and logistics workflow, from problem definition through a control plan that holds the gain after the project closes. |
-| Excel, MySQL, Python, Plotly | Python, pandas, MySQL, Streamlit | Python, Excel, Power BI, Six Sigma |
-| [🔗 Repo](https://github.com/JosephViscione/SaaS-Sales-Compensation-Model) · [📊 Live](https://josephviscione.github.io/SaaS-Sales-Compensation-Model/veltora_dashboard.html) | [🔗 Repo](https://github.com/JosephViscione/Supply-Chain-Performance-Analysis) · [📊 Live](https://supply-chain-performance.streamlit.app) | [🔗 Repo](https://github.com/JosephViscione/REPO-NAME) |
+| Found that Q1 accelerators cost more but returned proportionally more revenue, that mid-year rep churn left $51K in uncovered territory the payroll savings hid, and that the top 20% of earners take enough of variable comp to question quota distribution before the next plan year. | Found that 7 products drive 80% of revenue while 95 contribute 5%, and that Second Class shipping runs a 76.6% late rate on far fewer orders than Standard. Built on a pipeline moving 180K raw rows through Python cleaning into a normalized MySQL database. | Found revenue nearly doubling in Q4 on a UK retailer's 12 months of transactions, with a single customer at £280K and the top 10 concentrated enough to be a real risk. Product mix was healthier than the customer and geographic mix, and a six-month Prophet forecast held a £1.2M to £1.6M monthly range. |
+| Excel, MySQL, Python, Plotly | Python, pandas, MySQL, Streamlit | Python, pandas, Prophet, matplotlib, seaborn |
+| [🔗 Repo](https://github.com/JosephViscione/SaaS-Sales-Compensation-Model) · [📊 Live](https://josephviscione.github.io/SaaS-Sales-Compensation-Model/veltora_dashboard.html) | [🔗 Repo](https://github.com/JosephViscione/Supply-Chain-Performance-Analysis) · [📊 Live](https://supply-chain-performance.streamlit.app) | [🔗 Repo](https://github.com/JosephViscione/online-retail-analysis) |
 
 ### 🧠 How I Approach Problems
 
@@ -88,4 +89,4 @@ I walked on to an NCAA Division I football team in college. Most of what I know 
 > An analysis nobody understands is an analysis nobody uses. The last mile is the explanation.
 ---
 
-[![](https://komarev.com/ghpvc/?username=JosephViscione&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=JosephViscione/JosephViscione&icon=0&color=0)](https://visitcount.itsvg.in)
