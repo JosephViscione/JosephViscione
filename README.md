@@ -10,6 +10,9 @@
 🔭 **I'm currently working on**  
 Completing my Master of Science in Business Analytics at Wake Forest University (Class of 2027). Alongside coursework I log play-level NFL and NCAA game data and build statistical models for the PFF Enterprise Database, and I work as an independent contractor business analyst helping small businesses find where revenue is coming from and where cost is leaking out.
 
+🎯 **The bridge**  
+I did not start in analytics. I came up through operations, running a landscaping business, then building Excel-based route planning and inventory systems as an operations associate, then administering pipeline records and customer master data in Dynamics 365 and SAP. What carried over is that I learned the operational side before the analytical one, so I already know what the data represents and where it breaks. The MSBA turned that into forecasting, experimental design, and statistical modeling. I am pointing it at revenue and go-to-market analytics, sales and marketing operations, and supply chain performance.
+
 🗣️ **How I work**  
 I put as much into the explanation as the analysis. Most of my work has gone to people who do not write SQL, including sales leaders, operations managers, and business owners, and the finding only matters if they can act on it. Translating a model into a decision someone actually makes is the part I am best at, and it is why my analysis gets used instead of filed. I also work in Spanish at a professional level.
 
